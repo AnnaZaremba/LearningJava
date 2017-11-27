@@ -1,13 +1,17 @@
 package samouczekProgramisty;
 
+import java.util.Scanner;
+
 public class CzyTempJestDodatnia {
 
-    private static final int TEMP = -12;
-
     public static void main(String[] args) {
+        Scanner tempScanner = new Scanner(System.in);
+        System.out.println("Podaj temperaturę:");
+        String temp = tempScanner.nextLine();
 
+        System.out.println("Temperatura wpisana przez usera: " + temp);
 
-        if(isTempPositive(TEMP)) {
+        if(isTempPositive(Integer.parseInt(temp))) {
             System.out.println("Temperatura dodatnia");
             return;
         }
