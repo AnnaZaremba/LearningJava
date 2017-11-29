@@ -1,4 +1,4 @@
-package samouczekProgramisty.zwierzeta;
+package samouczek.zwierzeta;
 
 public class Zwierze {
 

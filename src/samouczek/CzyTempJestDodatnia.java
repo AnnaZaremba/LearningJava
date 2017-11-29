@@ -1,4 +1,4 @@
-package samouczekProgramisty;
+package samouczek;
 
 import java.util.Scanner;
 

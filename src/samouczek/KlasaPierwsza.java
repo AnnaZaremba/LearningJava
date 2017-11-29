@@ -1,4 +1,4 @@
-package samouczekProgramisty;
+package samouczek;
 
 public class KlasaPierwsza {
 

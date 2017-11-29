@@ -1,7 +1,7 @@
-package samouczekProgramisty.zwierzeta.insekty;
+package samouczek.zwierzeta.insekty;
 
 
-import samouczekProgramisty.zwierzeta.Zwierze;
+import samouczek.zwierzeta.Zwierze;
 
 public class Insekt extends Zwierze {
 

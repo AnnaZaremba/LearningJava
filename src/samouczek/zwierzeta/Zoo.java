@@ -1,8 +1,8 @@
-package samouczekProgramisty.zwierzeta;
+package samouczek.zwierzeta;
 
-import samouczekProgramisty.zwierzeta.insekty.Motyl;
-import samouczekProgramisty.zwierzeta.insekty.Pajak;
-import samouczekProgramisty.zwierzeta.ssaki.Slon;
+import samouczek.zwierzeta.insekty.Motyl;
+import samouczek.zwierzeta.insekty.Pajak;
+import samouczek.zwierzeta.ssaki.Slon;
 
 public class Zoo {
 

@@ -1,4 +1,4 @@
-package samouczekProgramisty.zwierzeta.insekty;
+package samouczek.zwierzeta.insekty;
 
 public class Pajak extends Insekt {
 

@@ -1,4 +1,4 @@
-package samouczekProgramisty.zwierzeta;
+package samouczek.zwierzeta;
 
 import java.util.ArrayList;
 import java.util.List;

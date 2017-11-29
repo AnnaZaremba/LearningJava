@@ -1,4 +1,4 @@
-package samouczekProgramisty.zwierzeta.ssaki;
+package samouczek.zwierzeta.ssaki;
 
 public class Slon extends Ssak {
 
