@@ -1,6 +1,6 @@
-package samouczek.zwierzeta.ssaki;
+package zwierzeta.ssaki;
 
-import samouczek.zwierzeta.Zwierze;
+import zwierzeta.Zwierze;
 
 public class Ssak extends Zwierze{
 

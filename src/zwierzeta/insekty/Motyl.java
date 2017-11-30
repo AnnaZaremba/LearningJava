@@ -1,4 +1,4 @@
-package samouczek.zwierzeta.insekty;
+package zwierzeta.insekty;
 
 public class Motyl extends Insekt {
 

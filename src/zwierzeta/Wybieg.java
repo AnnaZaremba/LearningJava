@@ -1,4 +1,4 @@
-package samouczek.zwierzeta;
+package zwierzeta;
 
 import java.util.ArrayList;
 import java.util.List;

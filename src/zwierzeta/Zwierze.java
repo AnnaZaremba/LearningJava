@@ -1,4 +1,4 @@
-package samouczek.zwierzeta;
+package zwierzeta;
 
 public class Zwierze {
 
