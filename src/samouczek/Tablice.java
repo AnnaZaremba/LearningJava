@@ -2,7 +2,7 @@ package samouczek;
 
 import java.util.Arrays;
 
-public class TableceWielowymiarowe {
+public class Tablice {
 
     public static void main(String[] args) {
 
@@ -40,7 +40,7 @@ public class TableceWielowymiarowe {
         System.out.println("b   " + kolkoKrzyzyk[1][0] + "|" + kolkoKrzyzyk[1][1] + "|" + kolkoKrzyzyk[1][2]);
         System.out.println("c   " + kolkoKrzyzyk[2][0] + "|" + kolkoKrzyzyk[2][1] + "|" + kolkoKrzyzyk[2][2]);
 
-        // Napisz metodę pobierającą dwuelementową tablicę liczb i zwracający ich sumę
+//        Napisz metodę pobierającą dwuelementową tablicę liczb i zwracający ich sumę
 
         int[] sumaDwoch = new int[2];
 
@@ -49,7 +49,7 @@ public class TableceWielowymiarowe {
 
         System.out.println("Suma dwóch liczb jest równa: " + (sumaDwoch[0] + sumaDwoch[1]));
 
-        // Napisz program pobierający trójelementową tablicę liczb i zwracający największą liczbę.
+//        Napisz program pobierający trójelementową tablicę liczb i zwracający największą liczbę.
 
         int[] trzyLiczby = new int[3];
 
@@ -64,7 +64,7 @@ public class TableceWielowymiarowe {
 
         int[] array = new int[3];
 
-        // Liczby losowe w tablicy
+//        Liczby losowe w tablicy
 
         System.out.println(Math.random());
         int max = 50;
